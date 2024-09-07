@@ -1,0 +1,5 @@
+export const ADD_POST = 'ADD_POST'
+export const INCREASE_COUNTER = "INCREASE_COUNTER";
+export const DECREASE_COUNTER = "DECREASE_COUNTER";
+export const UPDATE_USER = 'UPDATE_USER';
+export const DELETE_USER = "DELETE_USER"
