@@ -7,7 +7,7 @@ const Counter = ({name, counter,decreaseCounterAction, increaseCounterAction }) 
   return (
     <div className="">
         <h2>Name:{name}</h2>
-         <h2>counter:{counter}</h2>  
+        <h2>counter:{counter}</h2>  
         <button onClick={()=>increaseCounterAction()}>Increase</button>
         <button onClick={()=>decreaseCounterAction()}>Decrease</button> 
 
